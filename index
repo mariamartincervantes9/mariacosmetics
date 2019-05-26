@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<head>
+index.php
+  <title>MARIA COSMETICS</title>
+</head>
+<body>
+ 
+ <font size="8"color="pink"><h1><i>MARIA COSMETICS</i></h1></font>
+  <font size="4"color="black"><h2>"VISTE SIEMPRE COMO SI FUERAS A ENCONTRARTE A TU PEOR ENEMIGO"</h2>
+  </font>
+
+  
+  <h3>Descubre las ultimas novedades en el mundo de la moda y maquillaje.
+  <br>
+  Dentro de este sitio podrás tener acceso a gran variedad de <b>consejos</b> de maquillaje, o de outfits sencillos y comodos, 
+  aprenderás  <b><FONT SIZE="4" COLOR="purple">maquillajes sencillos</FONT></b> para este verano y lucir tu mejor cara
+  en nuestra <b><FONT SIZE="4" COLOR="purple">página</FONT></b> precio més accesible... 
+  <br>
+  </h3>
+  </font>
+
+<font size="6"color="purple"><h1>NOTICIAS</h1></font>
+<b><font size="5"color="grey"><p>RIHANNA, LANZA SU PROPIA MARCA LLAMADA FENTY</p></font></b>
+<img src="45.jpg">
+<p>Rihanna, la primera mujer negra en la historia al frente de una marca de lujo parisina,
+ desveló los primeros diseños de su marca Fenty en una tienda pop-up en París.
+ La colección, que lleva el apellido de la cantante y diseñadora, comprende prendas de confección,
+ zapatos, accesorios y lentes.
+ Está disponible desde ayer en el área Le Marais de París y debutará en internet el 29 de mayo.</p>
+<p><b><FONT SIZE="4" COLOR="black">"Este es un momento histórico"</font></b>, dijo Rihanna, de 31 años, en una presentación preliminar de la tienda en la que lució un traje blanco corto de chaqueta.
+<p><b><FONT SIZE="4" COLOR="black">"Significa mucho para mí y toda mi generación".
+</font></b> 
+<body style="background-image:url(fondorosa.jpg);
+background-repeat: no-repeat;
+background-position: top center;
+background-attachment: fixed;">
+
+</body>
+</html>
